@@ -1,4 +1,4 @@
-# TPS
+# TCP-UDP Sandbox
 
 A Python networking project for learning:
 
